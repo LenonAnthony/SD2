@@ -1,1 +1,1 @@
-# SD2
+# Sistemas Distribuídos
